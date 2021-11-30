@@ -8,6 +8,15 @@ output:
     highlight: github
 ---
 
+```{r}
+
+library(usethis)
+use_git()
+use_github()
+
+
+```
+
 ## Prefácio
 
 ::: {style="text-align: justify"}
